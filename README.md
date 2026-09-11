@@ -1,4 +1,4 @@
-# Pranto Shield — ISO/IEC 27701:2019 Privacy Information Management Register
+# Pranto's GRC — ISO/IEC 27701:2019 Privacy Information Management Register
 
 A single-page, dependency-light dashboard for tracking an ISO/IEC 27701:2019
 Privacy Information Management System (PIMS) gap assessment: import a
