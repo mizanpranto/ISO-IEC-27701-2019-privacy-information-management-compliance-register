@@ -8,6 +8,8 @@ the browser.
 Built as a portfolio piece with **plain HTML, CSS, and JavaScript** — no build
 step, no framework, no backend.
 
+Have a look : https://mizanpranto.github.io/ISO-IEC-27701-2019-privacy-information-management-compliance-register/
+
 ![Pranto Shield dashboard](assets/screenshot-dashboard.png)
 ![Remediation roadmap](assets/screenshot-roadmap.png)
 ![History & trend](assets/screenshot-history.png)
